@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Backup files
+*.bak
+*.tmp
+
+# Environment variables (nếu có)
+.env
+.env.local
+
+# Build folders (nếu có thêm build process sau này)
+dist/
+build/
+node_modules/
+
+# Testing (nếu có)
+coverage/
+
+# Optional
+*.zip
+*.rar
